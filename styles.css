@@ -1,0 +1,29 @@
+li {
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 247, 104);
+    background-color: rgb(68, 2, 131);
+}
+
+.purple {
+    color: rgb(149, 132, 218);
+
+}
+
+button {
+    cursor: pointer;
+}
+
+.banana__img {
+    width: 200px;
+    border-radius: 50%;
+}
+.butterfly__img {
+    width: 200px;
+    border-radius: 50%;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
